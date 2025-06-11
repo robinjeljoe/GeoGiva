@@ -1,0 +1,1150 @@
+{
+  "questions": [
+    {
+      "question": "Which country is known as the 'Land of Fire and Ice'?",
+      "options": ["Norway", "Iceland", "Greenland", "Finland"],
+      "correctAnswer": "Iceland",
+      "category": "General Knowledge"
+    },
+    {
+      "question": "The Great Barrier Reef is located off the coast of which country?",
+      "options": ["Brazil", "Philippines", "Australia", "Mexico"],
+      "correctAnswer": "Australia",
+      "category": "Landmarks"
+    },
+    {
+      "question": "Which river is the longest in the world?",
+      "options": ["Amazon", "Nile", "Mississippi", "Yangtze"],
+      "correctAnswer": "Nile",
+      "category": "Geography Features"
+    },
+    {
+      "question": "What is the capital city of Morocco?",
+      "options": ["Casablanca", "Rabat", "Marrakech", "Tangier"],
+      "correctAnswer": "Rabat",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which mountain range separates Europe from Asia?",
+      "options": ["Alps", "Andes", "Himalayas", "Ural Mountains"],
+      "correctAnswer": "Ural Mountains",
+      "category": "Geography Features"
+    },
+    {
+      "question": "Which of these countries does NOT border France?",
+      "options": ["Belgium", "Germany", "Netherlands", "Spain"],
+      "correctAnswer": "Netherlands",
+      "category": "Borders"
+    },
+    {
+      "question": "What is the smallest country in the world by land area?",
+      "options": ["Monaco", "Nauru", "Vatican City", "Liechtenstein"],
+      "correctAnswer": "Vatican City",
+      "category": "General Knowledge"
+    },
+    {
+      "question": "The city of Istanbul spans which two continents?",
+      "options": ["Europe and Africa", "Asia and Europe", "Africa and Asia", "North America and Europe"],
+      "correctAnswer": "Asia and Europe",
+      "category": "Cities"
+    },
+    {
+      "question": "Which desert is the largest hot desert in the world?",
+      "options": ["Gobi", "Kalahari", "Sahara", "Arabian"],
+      "correctAnswer": "Sahara",
+      "category": "Geography Features"
+    },
+    {
+      "question": "Lake Baikal, the world's deepest lake, is located in which country?",
+      "options": ["Mongolia", "Kazakhstan", "China", "Russia"],
+      "correctAnswer": "Russia",
+      "category": "Geography Features"
+    },
+    {
+      "question": "What is the largest island in the Mediterranean Sea?",
+      "options": ["Sicily", "Cyprus", "Sardinia", "Crete"],
+      "correctAnswer": "Sicily",
+      "category": "Islands"
+    },
+    {
+      "question": "Which country is home to Machu Picchu?",
+      "options": ["Peru", "Colombia", "Bolivia", "Ecuador"],
+      "correctAnswer": "Peru",
+      "category": "Landmarks"
+    },
+    {
+      "question": "The Strait of Gibraltar connects the Atlantic Ocean to which sea?",
+      "options": ["Black Sea", "Red Sea", "Mediterranean Sea", "Baltic Sea"],
+      "correctAnswer": "Mediterranean Sea",
+      "category": "Geography Features"
+    },
+    {
+      "question": "Which African country was formerly known as Abyssinia?",
+      "options": ["Ethiopia", "Nigeria", "Egypt", "Kenya"],
+      "correctAnswer": "Ethiopia",
+      "category": "History"
+    },
+    {
+      "question": "Which U.S. state is the largest by area?",
+      "options": ["Texas", "California", "Alaska", "Montana"],
+      "correctAnswer": "Alaska",
+      "category": "US Geography"
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "options": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+      "correctAnswer": "Ottawa",
+      "category": "Capitals"
+    },
+    {
+      "question": "Mount Everest, the world's highest peak, is located in which mountain range?",
+      "options": ["Andes", "Alps", "Rockies", "Himalayas"],
+      "correctAnswer": "Himalayas",
+      "category": "Geography Features"
+    },
+    {
+      "question": "Which country is the largest by land area?",
+      "options": ["China", "USA", "Canada", "Russia"],
+      "correctAnswer": "Russia",
+      "category": "General Knowledge"
+    },
+    {
+      "question": "The Panama Canal connects which two oceans?",
+      "options": ["Atlantic and Indian", "Pacific and Indian", "Atlantic and Pacific", "Arctic and Atlantic"],
+      "correctAnswer": "Atlantic and Pacific",
+      "category": "Geography Features"
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "options": ["Kyoto", "Osaka", "Tokyo", "Nagoya"],
+      "correctAnswer": "Tokyo",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which European country is shaped like a boot?",
+      "options": ["Greece", "Spain", "Italy", "Portugal"],
+      "correctAnswer": "Italy",
+      "category": "General Knowledge"
+    },
+    {
+      "question": "Victoria Falls is located on the border of which two African countries?",
+      "options": ["Zimbabwe and Zambia", "Kenya and Tanzania", "Botswana and Namibia", "Angola and Congo"],
+      "correctAnswer": "Zimbabwe and Zambia",
+      "category": "Landmarks"
+    },
+    {
+      "question": "What is the longest river in Europe?",
+      "options": ["Danube", "Rhine", "Volga", "Seine"],
+      "correctAnswer": "Volga",
+      "category": "Geography Features"
+    },
+    {
+      "question": "Which country has the most international borders?",
+      "options": ["Russia", "Brazil", "Germany", "China"],
+      "correctAnswer": "China",
+      "category": "Borders"
+    },
+    {
+      "question": "What is the capital of Brazil?",
+      "options": ["Rio de Janeiro", "São Paulo", "Salvador", "Brasília"],
+      "correctAnswer": "Brasília",
+      "category": "Capitals"
+    },
+    {
+      "question": "The Dead Sea is bordered by which two countries?",
+      "options": ["Israel and Jordan", "Egypt and Saudi Arabia", "Syria and Lebanon", "Iraq and Iran"],
+      "correctAnswer": "Israel and Jordan",
+      "category": "Borders"
+    },
+    {
+      "question": "Which is the largest country in South America by area?",
+      "options": ["Argentina", "Peru", "Colombia", "Brazil"],
+      "correctAnswer": "Brazil",
+      "category": "General Knowledge"
+    },
+    {
+      "question": "What is the capital of Egypt?",
+      "options": ["Alexandria", "Giza", "Cairo", "Luxor"],
+      "correctAnswer": "Cairo",
+      "category": "Capitals"
+    },
+    {
+      "question": "The Kalahari Desert is primarily located in which African country?",
+      "options": ["Namibia", "South Africa", "Angola", "Botswana"],
+      "correctAnswer": "Botswana",
+      "category": "Geography Features"
+    },
+    {
+      "question": "Which country is known as the 'Land Down Under'?",
+      "options": ["New Zealand", "Australia", "Papua New Guinea", "Fiji"],
+      "correctAnswer": "Australia",
+      "category": "General Knowledge"
+    },
+    {
+      "question": "What is the capital of Argentina?",
+      "options": ["Santiago", "Lima", "Buenos Aires", "Montevideo"],
+      "correctAnswer": "Buenos Aires",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which sea separates Europe from Africa?",
+      "options": ["Red Sea", "Black Sea", "Mediterranean Sea", "Arabian Sea"],
+      "correctAnswer": "Mediterranean Sea",
+      "category": "Geography Features"
+    },
+    {
+      "question": "Mount Fuji is an iconic landmark in which country?",
+      "options": ["China", "South Korea", "Japan", "Vietnam"],
+      "correctAnswer": "Japan",
+      "category": "Landmarks"
+    },
+    {
+      "question": "What is the capital of South Korea?",
+      "options": ["Busan", "Incheon", "Seoul", "Daegu"],
+      "correctAnswer": "Seoul",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which is the largest island in the world?",
+      "options": ["Borneo", "Madagascar", "Greenland", "New Guinea"],
+      "correctAnswer": "Greenland",
+      "category": "Islands"
+    },
+    {
+      "question": "The ancient city of Petra is located in which modern-day country?",
+      "options": ["Egypt", "Israel", "Jordan", "Syria"],
+      "correctAnswer": "Jordan",
+      "category": "Landmarks"
+    },
+    {
+      "question": "What is the capital of Mexico?",
+      "options": ["Guadalajara", "Cancun", "Tijuana", "Mexico City"],
+      "correctAnswer": "Mexico City",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which country is the most populous in the world?",
+      "options": ["India", "USA", "Indonesia", "China"],
+      "correctAnswer": "India",
+      "category": "General Knowledge"
+    },
+    {
+      "question": "The Angel Falls, the world's tallest uninterrupted waterfall, is in which country?",
+      "options": ["Brazil", "Colombia", "Guyana", "Venezuela"],
+      "correctAnswer": "Venezuela",
+      "category": "Landmarks"
+    },
+     {
+      "question": "What is the capital of Spain?",
+      "options": ["Barcelona", "Seville", "Valencia", "Madrid"],
+      "correctAnswer": "Madrid",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which ocean is the largest and deepest?",
+      "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+      "correctAnswer": "Pacific",
+      "category": "Geography Features"
+    },
+    {
+      "question": "The Serengeti National Park is located in which country?",
+      "options": ["Kenya", "Uganda", "Tanzania", "Rwanda"],
+      "correctAnswer": "Tanzania",
+      "category": "Landmarks"
+    },
+    {
+      "question": "What is the capital of Russia?",
+      "options": ["Saint Petersburg", "Novosibirsk", "Yekaterinburg", "Moscow"],
+      "correctAnswer": "Moscow",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which country does Greenland belong to?",
+      "options": ["Iceland", "Norway", "Canada", "Denmark"],
+      "correctAnswer": "Denmark",
+      "category": "General Knowledge"
+    },
+    {
+      "question": "The Amazon River flows primarily through which continent?",
+      "options": ["Africa", "Asia", "North America", "South America"],
+      "correctAnswer": "South America",
+      "category": "Geography Features"
+    },
+    {
+      "question": "What is the capital of Germany?",
+      "options": ["Munich", "Hamburg", "Frankfurt", "Berlin"],
+      "correctAnswer": "Berlin",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which country is home to the pyramids of Giza?",
+      "options": ["Sudan", "Libya", "Egypt", "Algeria"],
+      "correctAnswer": "Egypt",
+      "category": "Landmarks"
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "options": ["Won", "Yuan", "Dollar", "Yen"],
+      "correctAnswer": "Yen",
+      "category": "General Knowledge"
+    },
+    {
+      "question": "Which country is directly north of the United States?",
+      "options": ["Mexico", "Russia", "Greenland", "Canada"],
+      "correctAnswer": "Canada",
+      "category": "Borders"
+    },
+    {
+      "question": "What is the capital of France?",
+      "options": ["Lyon", "Marseille", "Nice", "Paris"],
+      "correctAnswer": "Paris",
+      "category": "Capitals"
+    },
+    {
+      "question": "The Atacama Desert, one of the driest places on Earth, is located primarily in which country?",
+      "options": ["Peru", "Argentina", "Bolivia", "Chile"],
+      "correctAnswer": "Chile",
+      "category": "Geography Features"
+    },
+    {
+      "question": "Which U.S. state is known as the 'Sunshine State'?",
+      "options": ["California", "Arizona", "Florida", "Hawaii"],
+      "correctAnswer": "Florida",
+      "category": "US Geography"
+    },
+    {
+      "question": "What is the capital of Italy?",
+      "options": ["Milan", "Naples", "Florence", "Rome"],
+      "correctAnswer": "Rome",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which continent is the least populated?",
+      "options": ["Australia", "South America", "Antarctica", "Africa"],
+      "correctAnswer": "Antarctica",
+      "category": "General Knowledge"
+    },
+    {
+      "question": "The Mekong River flows through several countries in which continent?",
+      "options": ["Africa", "South America", "North America", "Asia"],
+      "correctAnswer": "Asia",
+      "category": "Geography Features"
+    },
+    {
+      "question": "What is the capital of India?",
+      "options": ["Mumbai", "Kolkata", "Chennai", "New Delhi"],
+      "correctAnswer": "New Delhi",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which country is famous for its fjords?",
+      "options": ["Sweden", "Finland", "Denmark", "Norway"],
+      "correctAnswer": "Norway",
+      "category": "Geography Features"
+    },
+    {
+      "question": "The Great Wall is a famous landmark primarily associated with which country?",
+      "options": ["Mongolia", "Korea", "Japan", "China"],
+      "correctAnswer": "China",
+      "category": "Landmarks"
+    },
+    {
+      "question": "What is the capital of the United Kingdom?",
+      "options": ["Manchester", "Birmingham", "Edinburgh", "London"],
+      "correctAnswer": "London",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which is the largest lake in Africa?",
+      "options": ["Lake Tanganyika", "Lake Malawi", "Lake Chad", "Lake Victoria"],
+      "correctAnswer": "Lake Victoria",
+      "category": "Geography Features"
+    },
+    {
+      "question": "Which country does the island of Crete belong to?",
+      "options": ["Italy", "Turkey", "Cyprus", "Greece"],
+      "correctAnswer": "Greece",
+      "category": "Islands"
+    },
+    {
+      "question": "What is the capital of Thailand?",
+      "options": ["Chiang Mai", "Phuket", "Pattaya", "Bangkok"],
+      "correctAnswer": "Bangkok",
+      "category": "Capitals"
+    },
+    {
+      "question": "The Andes mountain range runs along the western coast of which continent?",
+      "options": ["North America", "Africa", "Australia", "South America"],
+      "correctAnswer": "South America",
+      "category": "Geography Features"
+    },
+    {
+      "question": "Which U.S. state has the longest coastline?",
+      "options": ["Florida", "California", "Maine", "Alaska"],
+      "correctAnswer": "Alaska",
+      "category": "US Geography"
+    },
+    {
+      "question": "What is the capital of Turkey?",
+      "options": ["Istanbul", "Izmir", "Bursa", "Ankara"],
+      "correctAnswer": "Ankara",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which country is entirely surrounded by South Africa?",
+      "options": ["Eswatini", "Botswana", "Namibia", "Lesotho"],
+      "correctAnswer": "Lesotho",
+      "category": "Borders"
+    },
+    {
+      "question": "The Matterhorn is a famous mountain peak in which mountain range?",
+      "options": ["Himalayas", "Rockies", "Andes", "Alps"],
+      "correctAnswer": "Alps",
+      "category": "Landmarks"
+    },
+    {
+      "question": "What is the capital of Saudi Arabia?",
+      "options": ["Jeddah", "Mecca", "Medina", "Riyadh"],
+      "correctAnswer": "Riyadh",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which river forms a major part of the border between the USA and Mexico?",
+      "options": ["Mississippi River", "Colorado River", "Missouri River", "Rio Grande"],
+      "correctAnswer": "Rio Grande",
+      "category": "Borders"
+    },
+    {
+      "question": "Which country is the world's largest producer of coffee?",
+      "options": ["Colombia", "Vietnam", "Ethiopia", "Brazil"],
+      "correctAnswer": "Brazil",
+      "category": "Economy"
+    },
+    {
+      "question": "What is the capital of Nigeria?",
+      "options": ["Lagos", "Kano", "Ibadan", "Abuja"],
+      "correctAnswer": "Abuja",
+      "category": "Capitals"
+    },
+    {
+      "question": "The Gobi Desert is located primarily in which two countries?",
+      "options": ["China and Mongolia", "Kazakhstan and Uzbekistan", "Russia and China", "India and Pakistan"],
+      "correctAnswer": "China and Mongolia",
+      "category": "Geography Features"
+    },
+    {
+      "question": "Which is the largest state in Australia by area?",
+      "options": ["Queensland", "New South Wales", "Victoria", "Western Australia"],
+      "correctAnswer": "Western Australia",
+      "category": "General Knowledge"
+    },
+    {
+      "question": "What is the capital of Peru?",
+      "options": ["Cusco", "Arequipa", "Trujillo", "Lima"],
+      "correctAnswer": "Lima",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which strait separates Asia from North America?",
+      "options": ["Strait of Malacca", "Strait of Hormuz", "Bosporus Strait", "Bering Strait"],
+      "correctAnswer": "Bering Strait",
+      "category": "Geography Features"
+    },
+    {
+      "question": "The Acropolis is a famous ancient citadel located in which city?",
+      "options": ["Rome", "Istanbul", "Cairo", "Athens"],
+      "correctAnswer": "Athens",
+      "category": "Landmarks"
+    },
+    {
+      "question": "What is the capital of Vietnam?",
+      "options": ["Ho Chi Minh City", "Da Nang", "Hue", "Hanoi"],
+      "correctAnswer": "Hanoi",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which country has the longest coastline in the world?",
+      "options": ["Australia", "Russia", "Indonesia", "Canada"],
+      "correctAnswer": "Canada",
+      "category": "General Knowledge"
+    },
+    {
+      "question": "The Danube River flows into which sea?",
+      "options": ["Mediterranean Sea", "North Sea", "Baltic Sea", "Black Sea"],
+      "correctAnswer": "Black Sea",
+      "category": "Geography Features"
+    },
+    {
+      "question": "What is the capital of South Africa (administrative)?",
+      "options": ["Cape Town", "Johannesburg", "Durban", "Pretoria"],
+      "correctAnswer": "Pretoria",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which country is known for its tulips and windmills?",
+      "options": ["Belgium", "Germany", "Denmark", "Netherlands"],
+      "correctAnswer": "Netherlands",
+      "category": "General Knowledge"
+    },
+    {
+      "question": "The Iguazu Falls are located on the border of which two South American countries?",
+      "options": ["Brazil and Argentina", "Peru and Bolivia", "Colombia and Venezuela", "Chile and Argentina"],
+      "correctAnswer": "Brazil and Argentina",
+      "category": "Landmarks"
+    },
+    {
+      "question": "What is the capital of Ireland?",
+      "options": ["Cork", "Galway", "Belfast", "Dublin"],
+      "correctAnswer": "Dublin",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which is the highest mountain peak in North America?",
+      "options": ["Mount Logan", "Mount Whitney", "Pico de Orizaba", "Denali (Mount McKinley)"],
+      "correctAnswer": "Denali (Mount McKinley)",
+      "category": "Geography Features"
+    },
+    {
+      "question": "Which country is the primary location of the ancient Mayan civilization?",
+      "options": ["Peru", "Colombia", "Brazil", "Mexico"],
+      "correctAnswer": "Mexico",
+      "category": "History"
+    },
+    {
+      "question": "What is the capital of Portugal?",
+      "options": ["Porto", "Faro", "Coimbra", "Lisbon"],
+      "correctAnswer": "Lisbon",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which U.S. state is home to the Grand Canyon?",
+      "options": ["Utah", "Nevada", "Colorado", "Arizona"],
+      "correctAnswer": "Arizona",
+      "category": "US Geography"
+    },
+    {
+      "question": "The island of Tasmania belongs to which country?",
+      "options": ["New Zealand", "Indonesia", "Fiji", "Australia"],
+      "correctAnswer": "Australia",
+      "category": "Islands"
+    },
+    {
+      "question": "What is the capital of Sweden?",
+      "options": ["Gothenburg", "Malmö", "Uppsala", "Stockholm"],
+      "correctAnswer": "Stockholm",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which river is most associated with ancient Egypt?",
+      "options": ["Tigris", "Euphrates", "Jordan", "Nile"],
+      "correctAnswer": "Nile",
+      "category": "History"
+    },
+    {
+      "question": "Which country is known as the 'Emerald Isle'?",
+      "options": ["Scotland", "Wales", "England", "Ireland"],
+      "correctAnswer": "Ireland",
+      "category": "General Knowledge"
+    },
+    {
+      "question": "What is the capital of Norway?",
+      "options": ["Bergen", "Trondheim", "Stavanger", "Oslo"],
+      "correctAnswer": "Oslo",
+      "category": "Capitals"
+    },
+    {
+      "question": "Lake Titicaca, the highest navigable lake, sits on the border of which two countries?",
+      "options": ["Peru and Bolivia", "Chile and Argentina", "Ecuador and Colombia", "Brazil and Paraguay"],
+      "correctAnswer": "Peru and Bolivia",
+      "category": "Borders"
+    },
+    {
+      "question": "The city of Timbuktu is located in which African country?",
+      "options": ["Nigeria", "Ghana", "Senegal", "Mali"],
+      "correctAnswer": "Mali",
+      "category": "Cities"
+    },
+    {
+      "question": "What is the capital of Greece?",
+      "options": ["Thessaloniki", "Patras", "Heraklion", "Athens"],
+      "correctAnswer": "Athens",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which is the largest desert (of any type) in the world?",
+      "options": ["Sahara", "Arabian", "Gobi", "Antarctic"],
+      "correctAnswer": "Antarctic",
+      "category": "Geography Features"
+    },
+    {
+      "question": "Which country is home to the Christ the Redeemer statue?",
+      "options": ["Argentina", "Chile", "Peru", "Brazil"],
+      "correctAnswer": "Brazil",
+      "category": "Landmarks"
+    },
+    {
+      "question": "What is the capital of Poland?",
+      "options": ["Krakow", "Gdańsk", "Wrocław", "Warsaw"],
+      "correctAnswer": "Warsaw",
+      "category": "Capitals"
+    },
+    {
+      "question": "The Alps mountain range stretches across how many countries?",
+      "options": ["4", "6", "8", "10"],
+      "correctAnswer": "8",
+      "category": "Geography Features"
+    },
+    {
+      "question": "Which country was formerly known as Siam?",
+      "options": ["Cambodia", "Myanmar", "Laos", "Thailand"],
+      "correctAnswer": "Thailand",
+      "category": "History"
+    },
+    {
+      "question": "What is the capital of Finland?",
+      "options": ["Tampere", "Turku", "Espoo", "Helsinki"],
+      "correctAnswer": "Helsinki",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which U.S. city is known as the 'Windy City'?",
+      "options": ["New York", "Los Angeles", "San Francisco", "Chicago"],
+      "correctAnswer": "Chicago",
+      "category": "US Geography"
+    },
+    {
+      "question": "The island of Borneo is divided among which three countries?",
+      "options": ["Malaysia, Philippines, Singapore", "Indonesia, Malaysia, Brunei", "Thailand, Myanmar, Laos", "Vietnam, Cambodia, Malaysia"],
+      "correctAnswer": "Indonesia, Malaysia, Brunei",
+      "category": "Islands"
+    },
+    {
+      "question": "What is the capital of Austria?",
+      "options": ["Salzburg", "Innsbruck", "Graz", "Vienna"],
+      "correctAnswer": "Vienna",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which river flows through Paris?",
+      "options": ["Rhône", "Loire", "Garonne", "Seine"],
+      "correctAnswer": "Seine",
+      "category": "Cities"
+    },
+    {
+      "question": "Which country is the largest island country in the world?",
+      "options": ["Japan", "Philippines", "Madagascar", "Indonesia"],
+      "correctAnswer": "Indonesia",
+      "category": "Islands"
+    },
+    {
+      "question": "What is the capital of Switzerland?",
+      "options": ["Zurich", "Geneva", "Basel", "Bern"],
+      "correctAnswer": "Bern",
+      "category": "Capitals"
+    },
+    {
+      "question": "Mount Kilimanjaro is what type of mountain?",
+      "options": ["Fold Mountain", "Block Mountain", "Plateau Mountain", "Volcano"],
+      "correctAnswer": "Volcano",
+      "category": "Geography Features"
+    },
+    {
+      "question": "Which country is known for the 'Running of the Bulls' festival?",
+      "options": ["Portugal", "Mexico", "Italy", "Spain"],
+      "correctAnswer": "Spain",
+      "category": "Culture"
+    },
+    {
+      "question": "What is the capital of Denmark?",
+      "options": ["Aarhus", "Odense", "Aalborg", "Copenhagen"],
+      "correctAnswer": "Copenhagen",
+      "category": "Capitals"
+    },
+    {
+      "question": "The Great Lakes primarily border which two countries?",
+      "options": ["USA and Mexico", "Canada and Greenland", "Russia and USA", "USA and Canada"],
+      "correctAnswer": "USA and Canada",
+      "category": "Borders"
+    },
+    {
+      "question": "Which ancient wonder was located in Alexandria, Egypt?",
+      "options": ["Hanging Gardens of Babylon", "Colossus of Rhodes", "Temple of Artemis", "Lighthouse of Alexandria"],
+      "correctAnswer": "Lighthouse of Alexandria",
+      "category": "History"
+    },
+    {
+      "question": "What is the capital of Belgium?",
+      "options": ["Antwerp", "Ghent", "Bruges", "Brussels"],
+      "correctAnswer": "Brussels",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which is the northernmost capital city in the world?",
+      "options": ["Oslo, Norway", "Helsinki, Finland", "Ottawa, Canada", "Reykjavik, Iceland"],
+      "correctAnswer": "Reykjavik, Iceland",
+      "category": "Capitals"
+    },
+    {
+      "question": "The Galapagos Islands belong to which country?",
+      "options": ["Peru", "Colombia", "Chile", "Ecuador"],
+      "correctAnswer": "Ecuador",
+      "category": "Islands"
+    },
+    {
+      "question": "What is the capital of New Zealand?",
+      "options": ["Auckland", "Christchurch", "Queenstown", "Wellington"],
+      "correctAnswer": "Wellington",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which river flows through London?",
+      "options": ["Severn", "Trent", "Avon", "Thames"],
+      "correctAnswer": "Thames",
+      "category": "Cities"
+    },
+    {
+      "question": "Which country is the largest producer of diamonds by volume?",
+      "options": ["Botswana", "Canada", "South Africa", "Russia"],
+      "correctAnswer": "Russia",
+      "category": "Economy"
+    },
+    {
+      "question": "What is the capital of Chile?",
+      "options": ["Valparaíso", "Concepción", "Antofagasta", "Santiago"],
+      "correctAnswer": "Santiago",
+      "category": "Capitals"
+    },
+    {
+      "question": "The Suez Canal connects the Mediterranean Sea to which other sea?",
+      "options": ["Black Sea", "Arabian Sea", "Caspian Sea", "Red Sea"],
+      "correctAnswer": "Red Sea",
+      "category": "Geography Features"
+    },
+    {
+      "question": "Which U.S. state is known as the 'Lone Star State'?",
+      "options": ["Arizona", "New Mexico", "Oklahoma", "Texas"],
+      "correctAnswer": "Texas",
+      "category": "US Geography"
+    },
+    {
+      "question": "What is the capital of Cuba?",
+      "options": ["Santiago de Cuba", "Camagüey", "Holguín", "Havana"],
+      "correctAnswer": "Havana",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which country is home to the world's largest salt flat, Salar de Uyuni?",
+      "options": ["Chile", "Argentina", "Peru", "Bolivia"],
+      "correctAnswer": "Bolivia",
+      "category": "Landmarks"
+    },
+    {
+      "question": "Which country was formerly known as Persia?",
+      "options": ["Iraq", "Syria", "Turkey", "Iran"],
+      "correctAnswer": "Iran",
+      "category": "History"
+    },
+    {
+      "question": "What is the capital of Romania?",
+      "options": ["Cluj-Napoca", "Timișoara", "Iași", "Bucharest"],
+      "correctAnswer": "Bucharest",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which is the longest river in Asia?",
+      "options": ["Mekong", "Ganges", "Indus", "Yangtze"],
+      "correctAnswer": "Yangtze",
+      "category": "Geography Features"
+    },
+    {
+      "question": "Which country is famous for its Carnival celebration in Rio de Janeiro?",
+      "options": ["Argentina", "Colombia", "Venezuela", "Brazil"],
+      "correctAnswer": "Brazil",
+      "category": "Culture"
+    },
+    {
+      "question": "What is the capital of Hungary?",
+      "options": ["Debrecen", "Szeged", "Miskolc", "Budapest"],
+      "correctAnswer": "Budapest",
+      "category": "Capitals"
+    },
+    {
+      "question": "The Rock of Gibraltar is an overseas territory of which country?",
+      "options": ["Spain", "Portugal", "Morocco", "United Kingdom"],
+      "correctAnswer": "United Kingdom",
+      "category": "General Knowledge"
+    },
+    {
+      "question": "Which is the largest lake entirely within one country?",
+      "options": ["Lake Superior", "Lake Baikal", "Great Bear Lake", "Lake Michigan"],
+      "correctAnswer": "Lake Michigan",
+      "category": "Geography Features"
+    },
+    {
+      "question": "What is the capital of the Philippines?",
+      "options": ["Quezon City", "Cebu City", "Davao City", "Manila"],
+      "correctAnswer": "Manila",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which country is known for inventing democracy?",
+      "options": ["Rome", "Egypt", "Persia", "Greece"],
+      "correctAnswer": "Greece",
+      "category": "History"
+    },
+    {
+      "question": "The island of Madagascar is located off the coast of which continent?",
+      "options": ["Asia", "South America", "Australia", "Africa"],
+      "correctAnswer": "Africa",
+      "category": "Islands"
+    },
+    {
+      "question": "What is the capital of Colombia?",
+      "options": ["Medellín", "Cali", "Cartagena", "Bogotá"],
+      "correctAnswer": "Bogotá",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which U.S. state is composed entirely of islands?",
+      "options": ["Florida", "Alaska", "Rhode Island", "Hawaii"],
+      "correctAnswer": "Hawaii",
+      "category": "US Geography"
+    },
+    {
+      "question": "The city of Venice is famous for its canals and is located in which country?",
+      "options": ["France", "Spain", "Greece", "Italy"],
+      "correctAnswer": "Italy",
+      "category": "Cities"
+    },
+    {
+      "question": "What is the capital of Pakistan?",
+      "options": ["Karachi", "Lahore", "Faisalabad", "Islamabad"],
+      "correctAnswer": "Islamabad",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which country is the largest by area in Africa?",
+      "options": ["Sudan", "DR Congo", "Libya", "Algeria"],
+      "correctAnswer": "Algeria",
+      "category": "General Knowledge"
+    },
+    {
+      "question": "The Rhine river flows through or borders how many countries?",
+      "options": ["4", "5", "6", "7"],
+      "correctAnswer": "6",
+      "category": "Geography Features"
+    },
+    {
+      "question": "What is the capital of Czech Republic?",
+      "options": ["Brno", "Ostrava", "Pilsen", "Prague"],
+      "correctAnswer": "Prague",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which country is known for its Maori culture?",
+      "options": ["Australia", "Fiji", "Samoa", "New Zealand"],
+      "correctAnswer": "New Zealand",
+      "category": "Culture"
+    },
+    {
+      "question": "The island of Hispaniola is shared by which two countries?",
+      "options": ["Cuba and Jamaica", "Puerto Rico and US Virgin Islands", "Dominica and Martinique", "Haiti and Dominican Republic"],
+      "correctAnswer": "Haiti and Dominican Republic",
+      "category": "Islands"
+    },
+    {
+      "question": "What is the capital of Iran?",
+      "options": ["Isfahan", "Shiraz", "Mashhad", "Tehran"],
+      "correctAnswer": "Tehran",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which is the longest mountain range in the world?",
+      "options": ["Himalayas", "Rockies", "Great Dividing Range", "Andes"],
+      "correctAnswer": "Andes",
+      "category": "Geography Features"
+    },
+    {
+      "question": "Which country hosted the first modern Olympic Games in 1896?",
+      "options": ["France", "United Kingdom", "Germany", "Greece"],
+      "correctAnswer": "Greece",
+      "category": "History"
+    },
+    {
+      "question": "What is the capital of Malaysia?",
+      "options": ["George Town", "Johor Bahru", "Ipoh", "Kuala Lumpur"],
+      "correctAnswer": "Kuala Lumpur",
+      "category": "Capitals"
+    },
+     {
+      "question": "Which U.S. state is known as the 'Golden State'?",
+      "options": ["Nevada", "Colorado", "Arizona", "California"],
+      "correctAnswer": "California",
+      "category": "US Geography"
+    },
+    {
+      "question": "The city of Casablanca is the largest city in which country?",
+      "options": ["Algeria", "Tunisia", "Libya", "Morocco"],
+      "correctAnswer": "Morocco",
+      "category": "Cities"
+    },
+    {
+      "question": "What is the capital of Indonesia?",
+      "options": ["Surabaya", "Bandung", "Medan", "Jakarta"],
+      "correctAnswer": "Jakarta",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which country is the world's largest exporter of rice?",
+      "options": ["China", "Vietnam", "Thailand", "India"],
+      "correctAnswer": "India",
+      "category": "Economy"
+    },
+    {
+      "question": "The Tigris and Euphrates rivers are primarily associated with which ancient civilization?",
+      "options": ["Egyptian", "Indus Valley", "Roman", "Mesopotamian"],
+      "correctAnswer": "Mesopotamian",
+      "category": "History"
+    },
+    {
+      "question": "What is the capital of Ukraine?",
+      "options": ["Kharkiv", "Odesa", "Lviv", "Kyiv"],
+      "correctAnswer": "Kyiv",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which sea is the saltiest in the world?",
+      "options": ["Mediterranean Sea", "Caribbean Sea", "Red Sea", "Dead Sea"],
+      "correctAnswer": "Dead Sea",
+      "category": "Geography Features"
+    },
+    {
+      "question": "Which country is known for the Tango dance?",
+      "options": ["Brazil", "Spain", "Mexico", "Argentina"],
+      "correctAnswer": "Argentina",
+      "category": "Culture"
+    },
+    {
+      "question": "What is the capital of Kenya?",
+      "options": ["Mombasa", "Kisumu", "Nakuru", "Nairobi"],
+      "correctAnswer": "Nairobi",
+      "category": "Capitals"
+    },
+    {
+      "question": "The island of Cyprus is divided between which two main entities/countries?",
+      "options": ["Greece and Turkey", "Syria and Lebanon", "Israel and Egypt", "Italy and Greece"],
+      "correctAnswer": "Greece and Turkey",
+      "category": "Islands"
+    },
+    {
+      "question": "Which country is the largest producer of maple syrup?",
+      "options": ["USA", "Russia", "Finland", "Canada"],
+      "correctAnswer": "Canada",
+      "category": "Economy"
+    },
+    {
+      "question": "What is the capital of Ethiopia?",
+      "options": ["Dire Dawa", "Mekelle", "Gondar", "Addis Ababa"],
+      "correctAnswer": "Addis Ababa",
+      "category": "Capitals"
+    },
+    {
+      "question": "The ruins of Pompeii are located near which modern Italian city?",
+      "options": ["Rome", "Florence", "Milan", "Naples"],
+      "correctAnswer": "Naples",
+      "category": "History"
+    },
+    {
+      "question": "Which is the largest city by population in the United States?",
+      "options": ["Los Angeles", "Chicago", "Houston", "New York City"],
+      "correctAnswer": "New York City",
+      "category": "US Geography"
+    },
+    {
+      "question": "What is the capital of Iraq?",
+      "options": ["Mosul", "Basra", "Erbil", "Baghdad"],
+      "correctAnswer": "Baghdad",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which country is known for its neutrality in international conflicts?",
+      "options": ["Sweden", "Austria", "Finland", "Switzerland"],
+      "correctAnswer": "Switzerland",
+      "category": "General Knowledge"
+    },
+    {
+      "question": "The Great Rift Valley is a major geological feature primarily located on which continent?",
+      "options": ["South America", "Asia", "North America", "Africa"],
+      "correctAnswer": "Africa",
+      "category": "Geography Features"
+    },
+    {
+      "question": "What is the capital of Ghana?",
+      "options": ["Kumasi", "Tamale", "Takoradi", "Accra"],
+      "correctAnswer": "Accra",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which country is home to the Terracotta Army?",
+      "options": ["Japan", "Vietnam", "Korea", "China"],
+      "correctAnswer": "China",
+      "category": "Landmarks"
+    },
+    {
+      "question": "What is the official language of Brazil?",
+      "options": ["Spanish", "English", "French", "Portuguese"],
+      "correctAnswer": "Portuguese",
+      "category": "Culture"
+    },
+    {
+      "question": "What is the capital of Venezuela?",
+      "options": ["Maracaibo", "Valencia", "Barquisimeto", "Caracas"],
+      "correctAnswer": "Caracas",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which U.S. state shares the longest border with Canada?",
+      "options": ["Montana", "Maine", "Washington", "Alaska"],
+      "correctAnswer": "Alaska",
+      "category": "US Geography"
+    },
+    {
+      "question": "The ancient city of Carthage was located in which modern-day country?",
+      "options": ["Libya", "Algeria", "Morocco", "Tunisia"],
+      "correctAnswer": "Tunisia",
+      "category": "History"
+    },
+    {
+      "question": "What is the capital of Israel?",
+      "options": ["Tel Aviv", "Haifa", "Eilat", "Jerusalem"],
+      "correctAnswer": "Jerusalem",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which country is the largest island in the Caribbean Sea?",
+      "options": ["Jamaica", "Hispaniola", "Puerto Rico", "Cuba"],
+      "correctAnswer": "Cuba",
+      "category": "Islands"
+    },
+    {
+      "question": "Which country is known for originating the concept of 'hygge'?",
+      "options": ["Norway", "Sweden", "Finland", "Denmark"],
+      "correctAnswer": "Denmark",
+      "category": "Culture"
+    },
+    {
+      "question": "What is the capital of Mongolia?",
+      "options": ["Erdenet", "Darkhan", "Choibalsan", "Ulaanbaatar"],
+      "correctAnswer": "Ulaanbaatar",
+      "category": "Capitals"
+    },
+    {
+      "question": "The Mississippi River flows into which body of water?",
+      "options": ["Atlantic Ocean", "Pacific Ocean", "Hudson Bay", "Gulf of Mexico"],
+      "correctAnswer": "Gulf of Mexico",
+      "category": "Geography Features"
+    },
+    {
+      "question": "Which country is the world's leading producer of olive oil?",
+      "options": ["Italy", "Greece", "Portugal", "Spain"],
+      "correctAnswer": "Spain",
+      "category": "Economy"
+    },
+    {
+      "question": "What is the capital of Afghanistan?",
+      "options": ["Kandahar", "Herat", "Mazar-i-Sharif", "Kabul"],
+      "correctAnswer": "Kabul",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which country was known as Ceylon until 1972?",
+      "options": ["Maldives", "Bangladesh", "Myanmar", "Sri Lanka"],
+      "correctAnswer": "Sri Lanka",
+      "category": "History"
+    },
+    {
+      "question": "Which U.S. state is the 'Badger State'?",
+      "options": ["Michigan", "Minnesota", "Iowa", "Wisconsin"],
+      "correctAnswer": "Wisconsin",
+      "category": "US Geography"
+    },
+    {
+      "question": "What is the capital of Senegal?",
+      "options": ["Thiès", "Touba", "Rufisque", "Dakar"],
+      "correctAnswer": "Dakar",
+      "category": "Capitals"
+    },
+    {
+      "question": "The highest waterfall in Europe, Krimml Falls, is in which country?",
+      "options": ["Switzerland", "Norway", "Italy", "Austria"],
+      "correctAnswer": "Austria",
+      "category": "Landmarks"
+    },
+    {
+      "question": "Which country is famous for its Samurai warriors?",
+      "options": ["China", "Korea", "Vietnam", "Japan"],
+      "correctAnswer": "Japan",
+      "category": "History"
+    },
+    {
+      "question": "What is the capital of Syria?",
+      "options": ["Aleppo", "Homs", "Latakia", "Damascus"],
+      "correctAnswer": "Damascus",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which is the largest country in the world with only one time zone?",
+      "options": ["India", "Australia", "Brazil", "China"],
+      "correctAnswer": "China",
+      "category": "General Knowledge"
+    },
+    {
+      "question": "The city of Mecca, Islam's holiest city, is located in which country?",
+      "options": ["UAE", "Oman", "Yemen", "Saudi Arabia"],
+      "correctAnswer": "Saudi Arabia",
+      "category": "Cities"
+    },
+    {
+      "question": "What is the capital of Croatia?",
+      "options": ["Split", "Rijeka", "Osijek", "Zagreb"],
+      "correctAnswer": "Zagreb",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which country is the primary setting for the novel 'One Hundred Years of Solitude'?",
+      "options": ["Peru", "Mexico", "Argentina", "Colombia"],
+      "correctAnswer": "Colombia",
+      "category": "Culture"
+    },
+    {
+      "question": "The island of Sardinia belongs to which country?",
+      "options": ["France", "Spain", "Greece", "Italy"],
+      "correctAnswer": "Italy",
+      "category": "Islands"
+    },
+    {
+      "question": "What is the capital of Bulgaria?",
+      "options": ["Plovdiv", "Varna", "Burgas", "Sofia"],
+      "correctAnswer": "Sofia",
+      "category": "Capitals"
+    },
+    {
+      "question": "Which U.S. state has the highest population density?",
+      "options": ["Rhode Island", "Massachusetts", "Maryland", "New Jersey"],
+      "correctAnswer": "New Jersey",
+      "category": "US Geography"
+    },
+    {
+      "question": "The ancient city of Babylon was located in which modern-day country?",
+      "options": ["Syria", "Iran", "Turkey", "Iraq"],
+      "correctAnswer": "Iraq",
+      "category": "History"
+    },
+    {
+      "question": "What is the capital of Algeria?",
+      "options": ["Oran", "Constantine", "Annaba", "Algiers"],
+      "correctAnswer": "Algiers",
+      "category": "Capitals"
+    }
+  ]
+}
